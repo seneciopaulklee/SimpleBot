@@ -15,7 +15,7 @@ global.linkUrlbot = "https://github.com/BrunoSobrino/SimpleBot"
 
 global.DeveloperMode = 'false' 
 global.linkGC = []
-global.mods = [] 
+global.mods = [+591 64900061] 
 global.prems = [] 
 
 global.APIs = { 
